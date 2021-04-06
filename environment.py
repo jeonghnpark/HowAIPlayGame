@@ -21,7 +21,8 @@ class Environment:
             위, 오른쪽, 아래, 왼쪽
         '''
         done = False
-        reward = 1
+        #현재 위치가 goal일때
+        if
 
         new_pos = agent.pos + agent.action[action]
 
